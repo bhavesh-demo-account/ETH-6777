@@ -33,7 +33,7 @@ LOGGING = {
         'file': {
             'level': 'DEBUG',
             'class': 'logging.FileHandler',
-            'filename': 'C:/Users/bhavesh/Desktop/New folder (2)/debug.log',
+            'filename': 'PATH TO SAVE LOG FILE',
         },
     },
     'loggers': {
